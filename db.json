@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Ana",
+    "ano_nascimento": 1984,
+    "notas": {
+      "n1": 7,
+      "n2": 5,
+      "n3": 4
+    }
+  },
+  {
+    "nome": "Carlos",
+    "ano_nascimento": 1999,
+    "notas": {
+      "n1": 8,
+      "n2": 6,
+      "n3": 9
+    }
+  },
+  {
+    "nome": "Mariana",
+    "ano_nascimento": 2001,
+    "notas": {
+      "n1": 6,
+      "n2": 7,
+      "n3": 8
+    }
+  },
+  {
+    "nome": "Marcos",
+    "ano_nascimento": 2002,
+    "notas": {
+      "n1": 9,
+      "n2": 9,
+      "n3": 10
+    }
+  },
+  {
+    "nome": "Isabela",
+    "ano_nascimento": 2000,
+    "notas": {
+      "n1": 8,
+      "n2": 7,
+      "n3": 6
+    }
+  },
+  {
+    "nome": "Lucas",
+    "ano_nascimento": 1998,
+    "notas": {
+      "n1": 5,
+      "n2": 6,
+      "n3": 7
+    }
+  },
+  {
+    "nome": "Beatriz",
+    "ano_nascimento": 2003,
+    "notas": {
+      "n1": 9,
+      "n2": 8,
+      "n3": 9
+    }
+  },
+  {
+    "nome": "Gustavo",
+    "ano_nascimento": 1997,
+    "notas": {
+      "n1": 7,
+      "n2": 8,
+      "n3": 7
+    }
+  },
+  {
+    "nome": "Laura",
+    "ano_nascimento": 1996,
+    "notas": {
+      "n1": 6,
+      "n2": 5,
+      "n3": 6
+    }
+  },
+  {
+    "nome": "Rafael",
+    "ano_nascimento": 2002,
+    "notas": {
+      "n1": 8,
+      "n2": 9,
+      "n3": 8
+    }
+  }
+]
